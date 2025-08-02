@@ -5,19 +5,19 @@ This project showcases a professional Power BI dashboard for analyzing call cent
 To build a clear and interactive dashboard that captures and visualizes key call centre KPIs — helping management assess performance, improve customer experience, and streamline operations using data analytics.
 
 # Key Insights Visualized
-• Total Call Volume
-• Agent Performance (Total Calls, Abandonment Rate, Answer Speed, Satisfaction)
-• Customer Satisfaction Distribution
-• Call Volume by Day & Hour
-• Resolution and Abandonment Trends
-• Interactive Filters (Agent, Topic, Month, Weekday)
+ Total Call Volume
+ Agent Performance (Total Calls, Abandonment Rate, Answer Speed, Satisfaction)
+ Customer Satisfaction Distribution
+ Call Volume by Day & Hour
+ Resolution and Abandonment Trends
+ Interactive Filters (Agent, Topic, Month, Weekday)
 
 # Tools & Technologies Used
-• Power BI Desktop
-• Power Query (M Language) for data transformation
-• DAX (Data Analysis Expressions) for calculated fields
-• Dynamic Slicers and Buttons for custom interactivity
-• Data Cleaning & Sorting to prepare consistent and usable datasets
+ Power BI Desktop
+ Power Query (M Language) for data transformation
+ DAX (Data Analysis Expressions) for calculated fields
+ Dynamic Slicers and Buttons for custom interactivity
+ Data Cleaning & Sorting to prepare consistent and usable datasets
 
 # Analytical Approach
 This dashboard is not just visual — it reflects structured analytical thinking.
