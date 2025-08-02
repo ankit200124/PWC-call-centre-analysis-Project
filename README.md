@@ -29,5 +29,14 @@ An executive dashboard that transforms raw call log data into actionable insight
 # Conclusion:
 This project showcases my ability to turn raw service data into actionable insights using Power BI. It reflects strong analytical thinking, KPI structuring and dashboard design tailored for business impact in a call centre environment.
 
+# PROJECT
+<a href="https://github.com/ankit200124/PWC-call-centre-analysis-Project./blob/main/PWC%20PROJECT.pbix"> Dashboard File</a>
+
+# DATASET
+<a href="https://github.com/ankit200124/PWC-call-centre-analysis-Project./blob/main/Project%20Dataset.csv"> Dataset</a>
+
+# DASHBOARD SCREENSHOT
+<img width="1097" height="631" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/6b88d174-1d75-41f6-b9f3-d8770ad75d22" />
+
 
 
