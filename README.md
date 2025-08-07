@@ -1,5 +1,6 @@
 <img width="2880" height="1440" alt="PwC_Company_Logo svg" src="https://github.com/user-attachments/assets/2fafcbfa-0f9f-4fd3-85ca-0af1a5858da7" />
 
+# Overview 
 This project showcases a professional Power BI dashboard for analyzing call centre performance metrics, inspired by consulting environments like PwC. The dashboard offers a dynamic, real-time overview of agent efficiency, customer satisfaction, call resolution, and volume trends and aiding quick operational decisions.
 
 # Project Objective
